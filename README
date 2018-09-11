@@ -1,0 +1,6 @@
+Run on a .NET IDE (ex:Visual Studio)
+
+CosumerWS is a simple WindowsForm that request the Service
+Test2WebService is the provider
+
+Give undestanding about c# web Api call and writing web service
